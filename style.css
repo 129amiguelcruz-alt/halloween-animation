@@ -91,7 +91,7 @@ body {
 #spooky #body #mouth:before {
     content: ' ';
     display: block;
-    background: #fff;
+    background: white;
     margin-left: 20px;
     width: 10px;
     height: 10px;
@@ -117,8 +117,8 @@ body {
 
 #shadow {
     margin: -90px auto 0;
-    backround: black;
-    wdith: 180px;
+    background: black;
+    width: 180px;
     height: 40px;
     border-radius: 50%;
     animation: zoomy 2s infinite;
